@@ -8,4 +8,4 @@ I'll start first by going over the most commun problems in machine learning ( **
 
 This repository will also contain some tips and cheats to apply machine learning faster and cleaner.
 
-As this goes on I hope to get more and more competent.
+As this goes on I hope to get more and more competent in this subject and get a deep intuition into its inner workings.
