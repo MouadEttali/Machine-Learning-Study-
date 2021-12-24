@@ -7,7 +7,7 @@ It also contains some of the challenges and tests I used to hone my skills or te
 
 I'll start first by going over the most commun problems in machine learning ( **classification / regression / clustering**), and slowly but surely get into the knitty gritty of things.
 
-This repository will also contain some tips and cheats to apply machine learning faster and cleaner.
+This repository will also contain some tips and cheats to apply machine learning faster and cleaner
 
 
 As this goes on I hope to get more and more competent in this subject and get a deep intuition into its inner workings.
