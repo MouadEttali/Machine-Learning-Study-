@@ -13,4 +13,4 @@ This repository will also contain some tips and cheats to apply machine learning
 As this goes on I hope to get more and more competent in this subject and get a deep intuition into its inner workings
 
 
-It also contains some study materials I used to brush up on my knowledge...
+It also contains some study materials I used to brush up on my knowledge.
